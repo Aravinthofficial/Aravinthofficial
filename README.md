@@ -14,7 +14,7 @@
 
 Cybersecurity is more than just a career path for me—it's a passion driven by curiosity, continuous learning, and the desire to protect organizations from evolving cyber threats. I am an aspiring **Security Operations Center (SOC) Analyst** with hands-on experience in **security monitoring, threat detection, log analysis, incident response, and network traffic analysis** through practical SOC lab environments.
 
-I enjoy investigating security events, identifying suspicious activities, and understanding attacker techniques using industry-standard tools and frameworks. My current learning focuses on **Windows Security Event Logs, SIEM technologies, MITRE ATT&CK Framework, Digital Forensics, Threat Hunting, and Incident Response**.
+I enjoy investigating security events, identifying suspicious activities, and understanding attacker techniques using industry-standard tools and frameworks. My current learning focuses on **Windows Security Event Logs, SIEM technologies,Incident Response**.
 
 I strongly believe that cybersecurity is a continuous journey of learning, adapting, and improving. My goal is to become a highly skilled SOC Analyst capable of detecting, investigating, and responding to sophisticated cyber threats while contributing to a secure digital environment.
 
@@ -73,7 +73,7 @@ Seeking an Entry-Level SOC Analyst position where I can apply my cybersecurity k
 ---
 
 ## Security Tools
-<img src="https://skillicons.dev/icons?i=linux,bash,kali,ubuntu,github,splunk,suricata,wireshark,powershell," />
+<img src="https://skillicons.dev/icons?i=linux,bash,kali,ubuntu,github,powershell," />
 
 
 | Tool | Level |
