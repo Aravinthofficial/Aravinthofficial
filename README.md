@@ -73,9 +73,7 @@ Seeking an Entry-Level SOC Analyst position where I can apply my cybersecurity k
 ---
 
 ## Security Tools
-
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,powershell" />
-
+<img src="https://skillicons.dev/icons?i=linux,bash,kali,ubuntu,github,splunk,suricata,wireshark,powershell," />
 | Tool | Level |
 |-------|--------|
 | Splunk | ⭐⭐⭐⭐☆ |
@@ -88,7 +86,7 @@ Seeking an Entry-Level SOC Analyst position where I can apply my cybersecurity k
 
 # 💻 Programming
 
-<img src="https://skillicons.dev/icons?i=java,python,bash,mysql" />
+<img src="https://skillicons.dev/icons?i=python" />
 
 ---
 
@@ -123,8 +121,6 @@ Seeking an Entry-Level SOC Analyst position where I can apply my cybersecurity k
 
 ✅ Log Analysis
 
-✅ Threat Hunting
-
 ✅ Malware Basics
 
 ✅ Brute Force Detection
@@ -136,8 +132,6 @@ Seeking an Entry-Level SOC Analyst position where I can apply my cybersecurity k
 ✅ Vulnerability Assessment
 
 ✅ MITRE ATT&CK
-
-✅ Cyber Kill Chain
 
 ✅ Incident Triage
 
@@ -187,13 +181,9 @@ Seeking an Entry-Level SOC Analyst position where I can apply my cybersecurity k
 
 🌱 Elastic SIEM
 
-🌱 DFIR
-
 🌱 Malware Analysis
 
 🌱 Threat Intelligence
-
-🌱 Active Directory Security
 
 ---
 
