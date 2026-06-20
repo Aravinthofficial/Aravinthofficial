@@ -74,6 +74,8 @@ Seeking an Entry-Level SOC Analyst position where I can apply my cybersecurity k
 
 ## Security Tools
 <img src="https://skillicons.dev/icons?i=linux,bash,kali,ubuntu,github,splunk,suricata,wireshark,powershell," />
+
+
 | Tool | Level |
 |-------|--------|
 | Splunk | ⭐⭐⭐⭐☆ |
