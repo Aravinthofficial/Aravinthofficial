@@ -211,36 +211,9 @@ https://www.linkedin.com/in/r-aravinthofficial
 
 ---
 
-# ⚡ Fun Fact
-
-> "Every security alert tells a story. My job is to uncover the truth behind it."
-
----
-
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&row=1&column=7" />
+  <b>🛡️ Monitor • Detect • Investigate • Respond • Secure</b>
+  <br><br>
+  <i>Committed to continuous learning, proactive defense, and strengthening cybersecurity one alert at a time.</i>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
-</p>
-
----
-
-<p align="center">
-
-### 🛡️ "Monitor • Detect • Investigate • Respond • Secure"
-
-</p>
